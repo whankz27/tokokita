@@ -1,3 +1,3 @@
 # tokokita
 
-A new Flutter project.
+Tugas Mobile Programming Flutter project.
